@@ -1,2 +1,13 @@
-# Netdata-Dashboard-Automation
-The goal of this project is to learn the basics of monitoring. It is to help you understand how to monitor the health of a system and how to set up a basic monitoring dashboard.
+# Project URL
+Find the Project URL [here](https://roadmap.sh/projects/simple-monitoring-dashboard)
+
+## Netdata Dashboard Automation
+This project automates the setup and configuration of a [Netdata](https://github.com/netdata/netdata) monitoring dashboard using shell scripts.
+
+### Scripts
+1. ```setup.sh```: Installs Netdata on a Linux system.
+2. ```test_dashboard.sh```: Simulates system load to test the Netdata dashboard.
+3. ```cleanup.sh```: Removes Netdata from the system.
+### Requirements
+1. Linux system (Ubuntu/Debian)
+2. Internet connection
